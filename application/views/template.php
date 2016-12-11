@@ -55,7 +55,7 @@ if (!defined('APPPATH'))
                 <div class="navbar-collapse collapse">
                     <ul class="nav navbar-nav navbar-right">
                         <li><a href="/">HOME</a></li>
-                        <li><a href="admin">ADMINISTRATOR</a></li>
+                        <li><a href="/admin/index">ADMINISTRATOR</a></li>
                          <li><a href="/recieving/index">RECIEVING</a></li>
                            <li><a href="/production/index">PRODUCTION</a></li>
                         <li><a href="/sales/index">SALES</a></li>
