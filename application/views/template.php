@@ -59,7 +59,7 @@ if (!defined('APPPATH'))
                          <li><a href="/recieving/index">RECIEVING</a></li>
                            <li><a href="/production/index">PRODUCTION</a></li>
                         <li><a href="/sales/index">SALES</a></li>
-                    <li><a href="/toggle">Toggle Role</a></li>
+                    <li><a href="/toggle/index">Toggle Role: {userrole}</a></li>
                     </ul>
                 </div>
             </div>
