@@ -61,6 +61,7 @@ class Stock extends CI_Model{
 	// retrieve all of the quotes
 	public function all()
 	{
-		return $this->data;
+            $query = $this->db->get('stock');  
+	    return $query->result_array();
 	}
 }
